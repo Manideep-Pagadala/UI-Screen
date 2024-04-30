@@ -1,0 +1,14 @@
+.offcanvas.custom-canvas {
+    width: 20% !important;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 3px;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.769);
+}

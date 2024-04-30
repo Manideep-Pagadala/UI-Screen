@@ -1,0 +1,17 @@
+.navbar {
+    background: rgba(0, 0, 255, 0.676) !important;
+    height: 50px;
+    padding: 0;
+}
+
+.input-group {
+    width: 400px;
+}
+
+.navbar-nav {
+    color: #fff !important;
+}
+
+.form-control {
+    background-color: skyblue;
+}
